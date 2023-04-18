@@ -1,7 +1,7 @@
 # Boids
 Boids project for IMAC
 
-#Subject
+# Subject
 
 Your task is to design an animation where each boid is a given word chosen in a provided list. These words refer to climate communication studies. The aim is to create a front image for a project grounded in media literacy.
 
@@ -12,7 +12,7 @@ The context is given here:
 Particular constraints: words in bright colors on dark background; maximum three colors; dimensions are 640*480; the loop should be infinite; the gif should be between 10 and 20 seconds. In a few lines, justify your design. Best three projects will be showcased at Cité des sciences "Weekend Ingénieurs Créatifs".
 
 
-#Artistic intent of the project
+# Artistic intent of the project
 
 The objective of this project was to make a work of art to raise awareness on a current topic: misinformation on climate change. 
 
