@@ -1,4 +1,4 @@
-# Boids
+## Boids
 Boids project for IMAC
 
 # Subject
@@ -7,9 +7,9 @@ Your task is to design an animation where each boid is a given word chosen in a 
 
 The context is given here:
 
-> Swarm is a follow-up to the Critical Climate Machine research project which involves revealing and quantifying misinformation about global warming. By extension, Swarm is a research on media literacy consisting of a critical study of climate denial in three languages: English, French, Spanish. The project results in an open dataset published online.
+- Swarm is a follow-up to the Critical Climate Machine research project which involves revealing and quantifying misinformation about global warming. By extension, Swarm is a research on media literacy consisting of a critical study of climate denial in three languages: English, French, Spanish. The project results in an open dataset published online.
 
-> Particular constraints: words in bright colors on dark background; maximum three colors; dimensions are 640*480; the loop should be infinite; the gif should be between 10 and 20 seconds. In a few lines, justify your design. Best three projects will be showcased at Cité des sciences "Weekend Ingénieurs Créatifs".
+- Particular constraints: words in bright colors on dark background; maximum three colors; dimensions are 640*480; the loop should be infinite; the gif should be between 10 and 20 seconds. In a few lines, justify your design. Best three projects will be showcased at Cité des sciences "Weekend Ingénieurs Créatifs".
 
 
 # Artistic intent of the project
