@@ -31,7 +31,7 @@ function preload() {
 }
 
 function setup() {
-  createCanvas(640, 480);
+  createCanvas(720, 576);
   let wordsArray = words.split(",");
   console.log(wordsArray); 
   textFont('Helvetica');
